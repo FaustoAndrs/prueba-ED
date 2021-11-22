@@ -2,4 +2,4 @@ Curso Dam 1 semipresencial.
 Fichero de prueba para subir al repostirio prueba-ED.
 linea editada desde terminal y repositorio local clonado.
 linea editada en github, actualizar puntero en repo. remoto mediante terminal.
-cerrar commit
+cerrar commitcerrar commit segundo intento
